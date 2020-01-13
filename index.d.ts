@@ -1,1 +1,5 @@
-export const mathJaxTextChm:any
+interface MathJaxTextChm {
+    typeset: () => void
+}
+
+export const mathJaxTextChm: MathJaxTextChm | any
