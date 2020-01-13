@@ -1,0 +1,1 @@
+export * as mathJaxTextChm from './src/tex-chtml'
