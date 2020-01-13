@@ -1,1 +1,3 @@
-export * as mathJaxTextChm from './src/tex-chtml'
+
+const mathJaxTextChm=require('./src/tex-chtml')
+module.exports={mathJaxTextChm}
